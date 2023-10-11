@@ -1,15 +1,16 @@
 """
-Inserta el encabezado aquí y escribe tu código abajo
+Checar si un número tiene decimales 
+750722
 """
 
 # Declaraciones
 CONSTANTE = valor
 
 # Entradas
-entrada = input()
+num = float(input("Introduzca un número: "))
 
-# Proceso
-
-
-# Salidas
-print(salida)
+#Proceso
+if num == int(num):
+    print("No tiene decimales")
+else:
+    print("Sí tiene decimales")
