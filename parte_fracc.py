@@ -1,15 +1,10 @@
-"""
-Inserta el encabezado aquí y escribe tu código abajo
-"""
-
-# Declaraciones
-CONSTANTE = valor
+"Diseña un programa para determinar si un número tiene parte fraccionaria (decimales)."
 
 # Entradas
-entrada = input()
+num = float(input("Introduzca un número: "))
 
-# Proceso
-
-
-# Salidas
-print(salida)
+#Proceso
+if num == int(num):
+    print("No tiene decimales")
+else:
+    print("Sí tiene decimales")
