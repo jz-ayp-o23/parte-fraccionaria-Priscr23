@@ -1,7 +1,8 @@
-"""
-Checar si un número tiene decimales 
+"""Checar si un número tiene decimales 
 750722
-"""
+"
+
+
 
 
 # Entradas
