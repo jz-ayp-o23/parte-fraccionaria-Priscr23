@@ -1,9 +1,4 @@
-"""Checar si un número tiene decimales 
-750722
-"
-
-
-
+"Diseña un programa para determinar si un número tiene parte fraccionaria (decimales)."
 
 # Entradas
 num = float(input("Introduzca un número: "))
