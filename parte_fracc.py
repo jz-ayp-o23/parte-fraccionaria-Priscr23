@@ -3,8 +3,6 @@ Checar si un número tiene decimales
 750722
 """
 
-# Declaraciones
-CONSTANTE = valor
 
 # Entradas
 num = float(input("Introduzca un número: "))
